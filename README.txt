@@ -1,156 +1,103 @@
-# Dipa's Makeup Studio & Beauty Saloon
+# 💄 Dipa's Makeup Studio & Beauty Saloon
 
-A modern, elegant, and responsive website for **Dipa's Makeup Studio & Beauty Saloon**, a beauty studio located in Gurap, Hooghly, West Bengal, India.
+### A modern website for a local beauty studio
 
-The website showcases the studio's beauty services, bridal makeup inspiration, pricing, client reviews, and contact information. It also provides a convenient way for visitors to enquire about services and request appointments through WhatsApp.
+A beautiful, elegant, and responsive website for **Dipa's Makeup Studio & Beauty Saloon**, created to showcase the studio's services, makeup gallery, customer reviews, and contact information.
+
+The website provides a convenient way for visitors to explore the studio and connect with the business for enquiries and appointments.
 
 <p align="center">
   <a href="https://broken-feather-040a.pulakitamitra.workers.dev/">
-    <strong>🌐 View Live Website</strong>
+    <img src="https://img.shields.io/badge/Live%20Website-Visit%20Now-e91e63?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Website">
+  </a>
+  <a href="https://github.com/PukuMitra/-Dipa-s-Makeup-Studio-Beauty-Saloon">
+    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository">
   </a>
 </p>
 
 ---
 
-## 📸 About the Project
+## 🌐 Live Demo
 
-This project was created to establish an online presence for a local beauty studio that previously had no website.
+**[Visit the Live Website](https://broken-feather-040a.pulakitamitra.workers.dev/)**
 
-The goal is to provide potential clients with a beautiful, accessible, and user-friendly experience where they can explore beauty services, discover bridal makeup inspiration, check starting prices, and get in touch with the studio.
+Explore the website and discover the studio's services, gallery, reviews, and contact information.
 
-The website focuses on a clean design, elegant presentation, and simple navigation to help visitors find the information they need.
+---
+
+## 📖 About the Project
+
+This project was developed to establish an online presence for a local beauty studio that previously had no website.
+
+The goal is to provide potential customers with an attractive and user-friendly platform where they can:
+
+- Explore the studio's beauty and makeup services.
+- Browse the makeup gallery.
+- Discover customer reviews.
+- Find business contact information.
+- Enquire about appointments through WhatsApp.
+- Access the studio's location through Google Maps.
+
+The website combines an elegant visual presentation with a lightweight implementation to make the business accessible online.
+
+---
 
 ## ✨ Features
 
-- **Elegant Design:** A visually appealing website designed to reflect the beauty and artistry of the studio.
-- **Responsive Layout:** Designed to provide a comfortable browsing experience across desktop and mobile devices.
-- **About Section:** Introduces the studio and its approach to personalized beauty services.
-- **Services & Pricing:** Showcases available beauty services and their starting prices.
-- **Bridal Makeup Gallery:** Features bridal, party, and occasion makeup inspiration.
-- **Client Reviews:** Highlights Google reviews and the studio's customer feedback.
-- **Appointment Enquiries:** Allows visitors to submit their details and preferred appointment information.
-- **WhatsApp Integration:** Opens WhatsApp with a pre-filled appointment enquiry message.
-- **Contact Information:** Displays the studio's address, phone number, business hours, and map directions.
+- **Elegant UI:** A visually appealing design that reflects the beauty and artistry of the studio.
+- **Responsive Design:** A layout designed for comfortable browsing across different screen sizes.
+- **Services & Pricing:** Displays beauty services and their pricing information.
+- **Makeup Gallery:** Showcases makeup inspiration and beauty photography.
+- **Customer Reviews:** Provides access to customer feedback and Google reviews.
+- **Appointment Enquiries:** Makes it easy for visitors to enquire about appointments.
+- **WhatsApp Integration:** Provides a convenient way to contact the studio.
+- **Contact Information:** Includes business details and location information.
 - **FAQ Section:** Helps visitors find answers to common questions.
 
-## 💄 Services Featured
+---
 
-The website highlights beauty services including:
+## 💅 Services
 
-- Bridal Makeup
-- Party Makeup
-- Reception & Occasion Makeup
-- Beauty and Personal Care
+The website showcases beauty and makeup services, including:
 
-Visitors can contact the studio for further information about services, availability, and pricing.
+| Service | Description |
+|---|---|
+| Bridal Makeup | Makeup for weddings and bridal occasions |
+| Party Makeup | Makeup for parties and special events |
+| Reception Makeup | Makeup for receptions and celebrations |
+| Beauty Services | Beauty and personal care services |
+
+For detailed service information, availability, and pricing, visitors can contact the studio directly.
+
+---
 
 ## 🛠️ Built With
 
 | Technology | Purpose |
 |---|---|
 | HTML5 | Website structure and content |
-| CSS3 | Styling, layout, and responsive design |
+| CSS3 | Styling and responsive layout |
 | JavaScript | Interactive functionality |
-| WhatsApp | Appointment enquiries and communication |
 
-The website is a lightweight, static web project. Its main implementation is contained in a single `index.html` file, with the website images built into the page.
+The website is implemented as a lightweight static web project.
+
+All website content, styling, JavaScript, and photos are contained in a single `index.html` file.
+
+No frameworks, external dependencies, or build tools are required.
+
+---
 
 ## 🚀 Getting Started
 
-You can run the website locally without installing any frameworks, dependencies, or additional software.
+You can run this project locally without installing any additional dependencies.
+
+### Prerequisites
+
+- A modern web browser.
+- Git installed on your computer.
+- A code editor such as Visual Studio Code (optional).
 
 ### 1. Clone the Repository
 
 ```bash
 git clone https://github.com/PukuMitra/-Dipa-s-Makeup-Studio-Beauty-Saloon.git
-```
-
-### 2. Navigate to the Project Directory
-
-```bash
-cd -Dipa-s-Makeup-Studio-Beauty-Saloon
-```
-
-### 3. Open the Website
-
-Open `index.html` directly in your preferred web browser.
-
-Alternatively, open the project folder in Visual Studio Code and use the Live Server extension for local development.
-
-That's it! The website is ready to run.
-
-## 📁 Project Structure
-
-```text
--Dipa-s-Makeup-Studio-Beauty-Saloon/
-│
-├── index.html    # Complete website
-├── README.md     # Project documentation
-└── README.txt    # Original project notes
-```
-
-The website's HTML, styling, JavaScript, and built-in images are contained in `index.html`.
-
-## ✏️ Customization
-
-You can customize the website by editing `index.html` in any code editor.
-
-The file includes an **"Editable content"** section where you can update important business information.
-
-Common customization options include:
-
-- Studio name and description
-- Beauty services and pricing
-- Gallery and makeup inspiration
-- Google reviews link
-- WhatsApp contact number
-- Phone number and appointment details
-- Business address and Google Maps link
-- Opening hours and FAQ content
-
-For the Google reviews link, update the `GOOGLE` entry in the editable content section.
-
-After making changes, save the file and refresh the browser to see the updated website.
-
-## 🌐 Deployment
-
-The website is built as a static site and can be hosted on any compatible static web hosting platform.
-
-The project can be deployed using:
-
-- Cloudflare Pages
-- GitHub Pages
-- Netlify
-- Vercel
-
-For Cloudflare Workers or another static hosting setup, upload or deploy the website's `index.html` file according to the hosting platform's requirements.
-
-No backend server or build process is required for the website's core functionality.
-
-## 📍 Studio Information
-
-**Dipa's Makeup Studio & Beauty Saloon**
-
-- **Address:** Gurap Beltala, opposite Gurap Police Station, Gurap, Hooghly, West Bengal 712303, India
-- **Phone:** +91 95478 37724
-- **Business Hours:** Monday–Saturday, 10:00 AM–9:30 PM; Sunday, 3:30 PM–9:30 PM
-
-For appointments and service enquiries, visitors can contact the studio directly through the website.
-
-## 🎯 Project Objective
-
-The objective of this project is to demonstrate how a simple, lightweight, and well-designed website can help a local beauty business establish an online presence, showcase its services, and make it easier for potential customers to connect with the business.
-
-## 👩‍💻 Developer
-
-**Pulakita Mitra**
-
-B.Tech Student | Artificial Intelligence & Data Science
-
-- GitHub: [@PukuMitra](https://github.com/PukuMitra)
-
----
-
-<p align="center">
-  Made with ❤️ to bring beauty and artistry online.
-</p>
